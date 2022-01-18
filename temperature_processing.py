@@ -1,7 +1,7 @@
 '''
 ------------------------------------------------------------------------------------------------------------------------
 #➥Author : Alae Boufarrachene
-#➥Project : Modular Heated Sidewalks
+#➥Project : Modular Heated Tiles
 #➥Description : Python script used to automate computations using the temperature data gathered from the MCU
 ------------------------------------------------------------------------------------------------------------------------
 '''
